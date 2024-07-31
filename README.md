@@ -7,7 +7,7 @@
 
 ## OBJECTIVE
 
-> To monitor and analyze the prices of laptop products from three brands (Apple, Dell and HP) on Ebay website.
+> To monitor and analyze the prices of laptop products from three brands (Apple, Dell and HP) on eBay website.
 
 **Tool Used:** Python, Pandas (data manipulation), BeautiSoup(Web scraping), Matplotlib / Seaborn (data visualization)
 
@@ -52,7 +52,7 @@
 -  For each brand of laptop, the price increases as the laptop version increases.
 
 ## CONCLUSIONS
-> From the project, I was able to scrape the data based on three laptop brands(Apple, Dell and HP) on eBay using BeautifulSoup, perform data wrangling(gather, assess and cleaning) and exploratory analysis to identify trends and patterns in prices across different laptop brands.
+> From the project, I was able to scrape the data based on three laptop brands(Apple, Dell and HP) on eBay by web scraping (BeautifulSoup), perform data wrangling(gather, assess and cleaning) and exploratory analysis to identify trends and patterns in prices across different laptop brands.
 
 > Further analysis can be done on this project; price trends over time, comparing the prices across different specifications (RAM, Storage etc.) and price correlation analysis.
 
@@ -60,6 +60,6 @@
 - Number of scrape pages: The project is limited to a certain number of pages from the eBay website which may be insufficient for further analysis or statistical analysis.
 - Product release date/year: It will be difficult to analyze the price trends over time without the released date to get full insights on the price changes.
 
-> You can check out the full documentation here: <a href='https://medium.com/@samueloyedele/oral-insulin-phase-ii-clinical-trial-data-analysis-using-python-10830c2f8650'>here</a>
+> You can check out the full documentation here: <a href='https://medium.com/@samueloyedele/ecommerce-price-monitoring-analysis-using-python-laptop-7ddca1fa8fdf'>here</a>
 
 
