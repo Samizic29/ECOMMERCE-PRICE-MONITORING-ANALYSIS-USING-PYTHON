@@ -9,7 +9,7 @@
 
 > To monitor and analyze the prices of laptop products from three brands (Apple, Dell and HP) on eBay website.
 
-**Tool Used:** Python, Pandas (data manipulation), BeautiSoup(Web scraping), Matplotlib / Seaborn (data visualization)
+**Tools Used:** Python, Pandas (data manipulation), BeautiSoup(Web scraping), Matplotlib / Seaborn (data visualization)
 
 **Skill Highlighted:** Web scraping, data cleaning, data analysis, data visualization
 
